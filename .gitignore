@@ -1,1 +1,3 @@
 env/
+.vscode/
+src/web_scraping/_pycache_
